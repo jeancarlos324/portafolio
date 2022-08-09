@@ -5,9 +5,9 @@
   --icon-color:#F1A600;
   --gray-color:#e5e5e5;
 }
-*{
+/* *{
   outline: 1px red solid;
-}
+} */
 html{
   scroll-behavior: smooth;
   overflow-y: scroll;
